@@ -20,6 +20,7 @@ Kotlin/Java 기반 JVM 백엔드를 중심으로, 카테고리별로 정리하�
 
 ### spring
 - [x] [IoC / DI](./spring/ioc-di.md)
+- [x] [Bean Lifecycle](./spring/bean-lifecycle.md)
 
 ### computer-science
 
