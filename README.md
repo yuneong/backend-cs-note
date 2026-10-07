@@ -30,5 +30,6 @@ Kotlin/Java 기반 JVM 백엔드를 중심으로, 카테고리별로 정리하�
 ### kotlin-java
 
 ### design-pattern
+- [x] [Singleton](./design-pattern/singleton.md)
 
 ### interview-log
